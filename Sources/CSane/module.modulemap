@@ -1,0 +1,5 @@
+module CSane {
+    header "shim.h"
+    link "sane"
+    export *
+}
